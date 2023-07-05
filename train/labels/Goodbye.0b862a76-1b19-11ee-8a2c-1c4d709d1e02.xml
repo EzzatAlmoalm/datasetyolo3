@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_images</folder>
+	<filename>Goodbye.0b862a76-1b19-11ee-8a2c-1c4d709d1e02.jpg</filename>
+	<path>C:\Users\ezat\Desktop\Andalus sign\YOLO3\All_images\Goodbye.0b862a76-1b19-11ee-8a2c-1c4d709d1e02.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Goodbye</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>129</ymin>
+			<xmax>422</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
